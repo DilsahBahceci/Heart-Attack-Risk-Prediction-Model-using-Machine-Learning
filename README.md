@@ -1,6 +1,7 @@
 Heart Attack Risk Prediction Model using Machine Learning
 📌 Proje Tanımı
 Bu proje, kalp krizi riskini tahmin etmek için makine öğrenmesi tekniklerini kullanmaktadır. Kaggle'dan alınan Cleveland Heart Disease veri seti üzerinde yapılan analizler sonucunda, çeşitli makine öğrenmesi algoritmalarıyla kalp hastalığı riski sınıflandırılmıştır.
+
 🧠 Kullanılan Yöntemler
 Veri Ön İşleme: Eksik değerlerin doldurulması, kategorik verilerin sayısallaştırılması ve verilerin normalize edilmesi işlemleri gerçekleştirilmiştir.
 Özellik Seçimi: Modelin performansını artırmak için önemli özellikler seçilmiştir.
