@@ -1,5 +1,5 @@
 # README dosyasını oluşturup kaydedelim
-readme_content = """# Heart Attack Risk Prediction Model using Machine Learning
+Heart Attack Risk Prediction Model using Machine Learning
 
 ## 📌 Proje Tanımı
 
