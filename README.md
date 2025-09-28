@@ -30,6 +30,17 @@ Veri seti, Cleveland Heart Disease veri setinden alınmıştır ve aşağıdaki 
 - **Major Damarlar:** Görüntülemede görünen ana damar sayısı
 - **Talasemi:** 0 = Normal, 1 = Taşınan, 2 = Orta, 3 = Şiddetli
 
+## 🧪 Veri Seti
+
+Bu projede, kalp hastalığı riskini tahmin etmek için [Personal Key Indicators of Heart Disease](https://www.kaggle.com/datasets/kamilpytlak/personal-key-indicators-of-heart-disease) veri seti kullanılmıştır. Bu veri seti, 2022 yılına ait CDC (Centers for Disease Control and Prevention) anket verilerini içermektedir ve aşağıdaki özellikleri sunmaktadır:
+
+- **Özellikler:** 18 sütun (9 boolean, 5 string, 4 sayısal)
+- **Örnek Sayısı:** 320.000+ satır
+- **İçerik:** Katılımcıların kalp hastalığına dair kişisel sağlık göstergeleri
+
+Veri seti, kalp hastalığı riskini etkileyebilecek çeşitli faktörleri analiz etmek için kapsamlı bir kaynak sunmaktadır.
+
+
 ## 🚀 Kurulum ve Çalıştırma
 
 1. **Gerekli Kütüphanelerin Kurulumu:**
